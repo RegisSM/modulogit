@@ -1,6 +1,3 @@
-Meu primeiro sistema no git atravez de prompt de comando
+Meu primeiro sistema no git (alterado e atualizado!)
 
 
-Titulo do video Revertendo as modificaçoes
-
-Esta alteração é feita apenas no Master
