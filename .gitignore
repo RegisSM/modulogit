@@ -1,0 +1,6 @@
+/*Estes arquivos serao ignorados*/
+backup_banco.sql 
+
+
+/*arquivos .txt serão ignorado*/
+*.txt
